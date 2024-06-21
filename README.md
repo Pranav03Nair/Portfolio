@@ -34,8 +34,6 @@ This portfolio website is designed to present my professional background, includ
   - Tailwind CSS
   - HTML5
   - CSS3
-- **Backend:**
-  - Node.js (if applicable)
 - **Deployment:**
   - Vercel / Netlify
 
@@ -87,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Hosted Live
 
-Check out my Portfolio Live here
+Check out my Portfolio Live [here](https://pranav-nair.netlify.app/)
 
 ## 🌟 Acknowledgements
 
