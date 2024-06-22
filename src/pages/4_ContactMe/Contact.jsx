@@ -36,7 +36,7 @@ const Contact = () => {
             {/* Resume */}
             <div>
               <a
-                href="https://drive.google.com/file/d/1QEiFKShZ21G0tfaATfjthI7N6dqzJhSz/view?usp=sharing"
+                href="https://drive.google.com/file/d/1PQCuk7TtAmRB3FLYOV7wA7ga07hfFBSo/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 // className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-lg font-medium text-background hover:bg-accent"
